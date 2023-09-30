@@ -44,7 +44,7 @@ Utilize the loaded encoder and the specified date to predict the price using the
 
 If you have any questions or need further assistance, feel free to reach out to me:
 
-- **Telegram:** [Tele_URL](https://t.me/ha12qw)
-- **Facebook:** [Mustafa Mohammad]([https://www.facebook.com/your_facebook_profile](https://www.facebook.com/profile.php?id=100049592914479)https://www.facebook.com/profile.php?id=100049592914479)
+- **Telegram:** [Mustafa Mohammad](https://t.me/ha12qw)
+- **Facebook:** [Mustafa Mohammad](https://www.facebook.com/profile.php?id=100049592914479)https://www.facebook.com/profile.php?id=100049592914479)
 
 Happy predicting!
